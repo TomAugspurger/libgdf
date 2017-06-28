@@ -6,6 +6,14 @@ libgdf is a C library for implementing common functionality for a GPU Data Frame
 
 The following instructions are tested on Linux and OSX systems.
 
+## Clone the repository
+
+Clone the repository and all the submodules.
+
+```
+git clone --recursive https://github.com/gpuopenanalytics/libgdf
+```
+
 ## Get dependencies
 
 It is recommended to setup a conda environment for the dependencies.
